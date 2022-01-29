@@ -1,1 +1,15 @@
+encoding: UTF-8
+title: 兔給得資訊公司
+tagline: 促進網頁社群和工程師的媒合
+description: 促進網頁社群和工程師的媒合
+locale: zh_TW
 theme: jekyll-theme-minimal
+logo: assets/logo.png
+permalink: pretty
+markdown: CommonMarkGhPages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-image-size
