@@ -1,12 +1,28 @@
 encoding: UTF-8
+theme: jekyll-theme-minimal
+url: "rabbit-gather.github.io"
+canonical_url: "https://rabbit-gather.github.io"
+enforce_ssl: rabbit-gather.github.io
 title: 兔給得資訊公司
 tagline: 促進網頁社群和工程師的媒合
 description: 促進網頁社群和工程師的媒合
 locale: zh_TW
 theme: jekyll-theme-minimal
 logo: assets/logo.png
+type: website
 permalink: pretty
-markdown: CommonMarkGhPages
+locale: zh_Hant_TW
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+seo: 
+  type: Organization
+page:
+  date: 2022-07-01
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
