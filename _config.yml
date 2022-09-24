@@ -2,7 +2,7 @@ encoding: UTF-8
 theme: jekyll-theme-minimal
 url: "https://blog.rabbit-gather.com"
 canonical_url: "https://blog.rabbit-gather.com"
-enforce_ssl: blog.rabbit-gather.com
+enforce_ssl: "https://blog.rabbit-gather.com"
 title: 兔給得資訊公司
 tagline: 促進網頁社群和工程師的媒合
 description: 促進網頁社群和工程師的媒合
