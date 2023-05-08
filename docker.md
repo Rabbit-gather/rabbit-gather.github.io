@@ -7,7 +7,7 @@ Docker 是一種容器化平台，能夠讓開發人員在不同的環境中運�
 
 1.  Docker 的概述和基本概念：Docker 是什麼？Docker 的核心概念、優點和使用案例。
 2.  Docker 的安裝和配置：Docker 的安裝方法和設置選項。
-3.  Docker 的基本指令：如何使用 Docker 建立、啟動、停止和刪除容器，以及管理映像（image）。
+3.  Docker 的基本指令：如何使用 Docker 建立、啟動、停止和刪除容器。
 4.  Docker 的映像管理：如何建立和管理映像，並理解 Dockerfile 和映像層。
 5.  Docker 的容器管理：如何管理容器的狀態、日誌和資源，以及使用 Docker Compose 管理多個容器。
 6.  Docker 的網路管理：如何建立和管理 Docker 網路，以及 Docker 網路的類型和使用案例。
