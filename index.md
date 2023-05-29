@@ -47,4 +47,4 @@
 
 ## 軟體開發社群公開活動
 
-<iframe src="https://calendar.google.com/calendar/embed?src=b3buhruprrkqmo6nhpc9u6eoig%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=b3buhruprrkqmo6nhpc9u6eoig%40group.calendar.google.com&ctz=Asia%2FTaipei&mode=AGENDA" style="border: 0" width="80%" height="600" frameborder="0" scrolling="no"></iframe>
