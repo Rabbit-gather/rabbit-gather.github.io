@@ -2,12 +2,6 @@
 
 利用公司的力量，推廣網頁開發社群，讓更多工程師，或者想當工程師的人，能從中獲益
 
-## MOすめ
-
-<a href="https://www.youtube.com/channel/UCFpr5TjvP6tFqccS_oTfWHw">
-<img src="https://upload.cc/i1/2023/05/29/TPHLm9.jpg" alt="mopcon">
-</a>
-
 ## 聯繫方式
 
 對兔給得資訊公司，有任何想詢問的問題嗎？
